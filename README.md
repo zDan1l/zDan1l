@@ -70,5 +70,5 @@
 </table>
 
 
-<p><img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=zdan1l&show_icons=true&locale=en" alt="zdan1l" /></p>
-<p><img width="400" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zdan1l&" alt="zdan1l" /></p>
+<p><img width="400"  src="https://github-readme-stats.vercel.app/api?username=zdan1l&show_icons=true&locale=en" alt="zdan1l" /></p>
+<p><img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=zdan1l&" alt="zdan1l" /></p>
