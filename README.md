@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ziyaa Danil Mubarok</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zdan1l&label=Profile%20views&color=0e75b6&style=flat" alt="zdan1l" /> </p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
 - 🌱 I’m currently learning **Laravel**
 
