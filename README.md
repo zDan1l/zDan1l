@@ -64,7 +64,11 @@
         </td>
         <td align="center" width="96">
             <img src="./img/js.png" alt="javascript" width="65" height="65">
-            GIT
+            Javascript
+        </td>
+        <td align="center" width="96">
+            <img src="./img/Figma-logo.svg" alt="Figma" width="65" height="65">
+            Figma
         </td>
     </tr>
 </table>
