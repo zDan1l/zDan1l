@@ -161,18 +161,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 **Highlights & Achievements**
 
-<div align="center">
+<br>
 
-| 🎯 Specialty | 💼 Experience | 🏆 Achievement |
-|:---:|:---:|:---:|
-| **UI/UX Design** | Figma, Illustrator | 5+ Design Study Case |
-| **Interactive Web Design** | Webflow, GSAP Animations | Multiple Animated Sites |
-| **Competitive Programming** | C++, Problem Solving | GEMASTIK Participant |
-| **Database Design** | MySQL, Optimization | Scalable Architectures |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
