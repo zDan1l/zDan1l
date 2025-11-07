@@ -38,25 +38,13 @@
 
 💼 **Full Stack Developer** specializing in Laravel, TypeScript, and modern web technologies
 
-🎨 **UI/UX Designer** crafting intuitive interfaces with Figma and Webflow
+🎨 **Web Designer** crafting intuitive website with Webflow and GSAP
 
 🏆 **Competitive Programmer** solving complex problems and competing in GEMASTIK
 
 🌍 Based in **Surabaya, Indonesia** | 📧 **ziyaadanil37@gmail.com**
 
 <br>
-
-### 🎯 **What I'm Working On**
-
-🔨 Building a **Hotel Booking Platform** with integrated payment gateway
-
-💻 Developing **Banking Applications** with secure transaction systems
-
-🏥 Creating **Hospital Management Systems** using Laravel
-
-🎬 Designing **Interactive Websites** with Webflow and GSAP animations
-
-📚 Currently mastering **Laravel Framework** and **Advanced TypeScript**
 
 <br clear="both">
 
@@ -179,8 +167,7 @@
 
 | 🎯 Specialty | 💼 Experience | 🏆 Achievement |
 |:---:|:---:|:---:|
-| **Full Stack Development** | Laravel, TypeScript, MySQL | Built 10+ Projects |
-| **UI/UX Design** | Figma, Illustrator | 5+ Design Systems |
+| **UI/UX Design** | Figma, Illustrator | 5+ Design Study Case |
 | **Interactive Web Design** | Webflow, GSAP Animations | Multiple Animated Sites |
 | **Competitive Programming** | C++, Problem Solving | GEMASTIK Participant |
 | **Database Design** | MySQL, Optimization | Scalable Architectures |
