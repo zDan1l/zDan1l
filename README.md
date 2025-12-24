@@ -194,13 +194,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Open+to+collaborations+%F0%9F%A4%9D;Available+for+freelance+projects+%F0%9F%92%BC;Let's+create+something+awesome!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/ziyaadanilm)
-[![Dribbble](https://img.shields.io/badge/Dribbble-Follow-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=EA4C89)](https://dribbble.com/zdanil)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:ziyaadanil37@gmail.com)
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐️&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=ffffff" width="100%" />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zdan1l&style=flat-square&color=6366f1" alt="Profile Views"/>
