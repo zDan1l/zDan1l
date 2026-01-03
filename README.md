@@ -50,7 +50,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Tech Stack**
 
 <table align="center">
   <tr>
@@ -150,33 +150,14 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdan1l&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=zdan1l&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=FFFFFF&area=true&area_color=6366f1" alt="Activity Graph" />
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zdan1l&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" alt="Trophies" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <br>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 **Random Dev Quote**
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 **Contribution Graph**
 
@@ -186,16 +167,3 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-
-### 💬 **Let's Connect and Build Something Amazing!**
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Open+to+collaborations+%F0%9F%A4%9D;Available+for+freelance+projects+%F0%9F%92%BC;Let's+create+something+awesome!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zdan1l&style=flat-square&color=6366f1" alt="Profile Views"/>
-</div>
